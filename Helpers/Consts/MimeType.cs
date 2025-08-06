@@ -1,4 +1,4 @@
-namespace DefaultDotnetBackend {
+namespace DefaultDotnetBackend.Constants {
     public static class MimeType {
         // 📄 Text & Web
         public const string Text = "text/plain";

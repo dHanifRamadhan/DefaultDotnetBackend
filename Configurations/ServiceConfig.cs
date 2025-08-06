@@ -1,6 +1,4 @@
 using System.Text.Json.Serialization;
-using DefaultDotnetBackend.Repositories;
-using DefaultDotnetBackend.Services;
 using DefaultDotnetBackend.Helpers;
 using FluentValidation;
 using FluentValidation.AspNetCore;

@@ -1,4 +1,4 @@
-namespace DefaultDotnetBackend {
+namespace DefaultDotnetBackend.Constants {
     public static class Messages {
         // TODO: Information
         public const string MAINTENANCE = "Maintenance";
