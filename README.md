@@ -1,5 +1,7 @@
 # 🚀 Template Backend Project - .NET Core + MySQL & PostgreSQL
 
+# Status: [Onprogress]
+
 ## 📖 Deskripsi
 Project ini adalah backend API yang dibangun dengan **C# & .NET Core**, menggunakan **MySQL dan PostgreSQL** sebagai database. API ini menyediakan berbagai endpoint untuk mengelola data yang tersimpan dalam sistem.
 
