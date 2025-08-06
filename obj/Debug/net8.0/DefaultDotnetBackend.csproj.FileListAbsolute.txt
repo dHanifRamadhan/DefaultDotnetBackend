@@ -163,3 +163,4 @@ C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend\obj\Debug\ne
 C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend\obj\Debug\net8.0\DefaultDotnetBackend.pdb
 C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend\obj\Debug\net8.0\DefaultDotnetBackend.genruntimeconfig.cache
 C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend\obj\Debug\net8.0\ref\DefaultDotnetBackend.dll
+C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend\obj\Debug\net8.0\DefaultDotnetBackend.sourcelink.json

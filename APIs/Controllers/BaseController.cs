@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using FluentValidation.Results;
 using DefaultDotnetBackend.DTOs;
+using DefaultDotnetBackend.Constants;
 
 namespace DefaultDotnetBackend.Controller { 
     public class BaseController : ControllerBase {
