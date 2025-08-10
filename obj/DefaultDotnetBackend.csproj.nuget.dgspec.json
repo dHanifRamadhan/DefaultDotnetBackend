@@ -89,6 +89,11 @@
               "target": "Package",
               "version": "[8.6.2, )"
             },
+            "Scriban": {
+              "include": "Build",
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
             "Serilog": {
               "target": "Package",
               "version": "[4.3.0, )"

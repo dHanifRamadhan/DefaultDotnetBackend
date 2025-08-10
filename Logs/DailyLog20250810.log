@@ -1,0 +1,599 @@
+2025-08-10 00:13:28.217 +07:00 [INF] Application is shutting down...
+2025-08-10 00:13:39.862 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 00:13:39.947 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 00:13:39.969 +07:00 [INF] Hosting environment: Development
+2025-08-10 00:13:39.981 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 00:13:51.076 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 00:13:51.198 +07:00 [INF] CORS policy execution successful.
+2025-08-10 00:13:51.283 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 00:13:51.374 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 00:13:54.090 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 00:13:54.112 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2709.1423ms
+2025-08-10 00:13:54.122 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 00:13:54.132 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 2876 text/plain 3065.9591ms
+2025-08-10 00:14:43.203 +07:00 [INF] Application is shutting down...
+2025-08-10 00:14:56.875 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 00:14:56.935 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 00:14:56.938 +07:00 [INF] Hosting environment: Development
+2025-08-10 00:14:56.941 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 00:15:05.867 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 00:15:05.981 +07:00 [INF] CORS policy execution successful.
+2025-08-10 00:15:06.068 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 00:15:06.140 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 00:15:08.901 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 00:15:08.977 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2813.5956ms
+2025-08-10 00:15:09.001 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 00:15:09.014 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 2850 text/plain 3157.8057ms
+2025-08-10 00:16:50.852 +07:00 [INF] Application is shutting down...
+2025-08-10 00:17:00.625 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 00:17:00.711 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 00:17:00.716 +07:00 [INF] Hosting environment: Development
+2025-08-10 00:17:00.721 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 00:17:34.318 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 00:17:34.465 +07:00 [INF] CORS policy execution successful.
+2025-08-10 00:17:34.512 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 00:17:34.570 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 00:17:37.526 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 00:17:37.549 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2960.4251ms
+2025-08-10 00:17:37.559 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 00:17:37.569 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 2850 text/plain 3260.8065ms
+2025-08-10 00:18:37.947 +07:00 [INF] Application is shutting down...
+2025-08-10 00:18:46.388 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 00:18:46.452 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 00:18:46.457 +07:00 [INF] Hosting environment: Development
+2025-08-10 00:18:46.459 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 00:19:02.602 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 00:19:02.657 +07:00 [INF] CORS policy execution successful.
+2025-08-10 00:19:02.749 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 00:19:02.855 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 00:19:06.379 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 00:19:06.404 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 3520.4218ms
+2025-08-10 00:19:06.419 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 00:19:06.429 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 2850 text/plain 3831.3404ms
+2025-08-10 00:22:56.465 +07:00 [INF] Application is shutting down...
+2025-08-10 00:23:05.267 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 00:23:05.330 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 00:23:05.335 +07:00 [INF] Hosting environment: Development
+2025-08-10 00:23:05.339 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 00:23:48.844 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 00:23:48.898 +07:00 [INF] CORS policy execution successful.
+2025-08-10 00:23:48.929 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 00:23:48.981 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 00:23:51.806 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 00:23:51.832 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2834.2269ms
+2025-08-10 00:23:51.850 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 00:23:51.864 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 2886 text/plain 3021.8995ms
+2025-08-10 00:33:37.885 +07:00 [INF] Application is shutting down...
+2025-08-10 00:33:55.715 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 00:33:55.773 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 00:33:55.777 +07:00 [INF] Hosting environment: Development
+2025-08-10 00:33:55.780 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 00:34:02.948 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 00:34:03.058 +07:00 [INF] CORS policy execution successful.
+2025-08-10 00:34:03.108 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 00:34:03.194 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 00:34:06.339 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 00:34:06.368 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 3163.6411ms
+2025-08-10 00:34:06.386 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 00:34:06.400 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3618 text/plain 3455.4027ms
+2025-08-10 01:13:20.945 +07:00 [INF] Application is shutting down...
+2025-08-10 01:13:27.254 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 01:13:27.310 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 01:13:27.316 +07:00 [INF] Hosting environment: Development
+2025-08-10 01:13:27.323 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 01:13:29.099 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 01:13:29.138 +07:00 [INF] CORS policy execution successful.
+2025-08-10 01:13:29.172 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 01:13:29.219 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 01:13:31.029 +07:00 [ERR] [BuilderController]: System.InvalidOperationException: Template parsing error: <input>(104,1) : error : Error while parsing for statement: The <end> statement was not found in: for <variable> in <expression> ... end
+   at DefaultDotnetBackend.Services.BuilderService.GenerateEntity(String schema, String tableName, String namespaceName) in C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend\Modules\Builder\Service\BuilderService.cs:line 59
+   at DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate(BuilderRequest item) in C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend\Modules\Builder\Controller\BuilderController.cs:line 86
+2025-08-10 01:13:31.087 +07:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType0`3[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-08-10 01:13:31.253 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2012.3943ms
+2025-08-10 01:13:31.297 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 01:13:31.336 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 400 null application/json; charset=utf-8 2236.3525ms
+2025-08-10 01:14:20.752 +07:00 [INF] Application is shutting down...
+2025-08-10 01:14:28.525 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 01:14:28.586 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 01:14:28.591 +07:00 [INF] Hosting environment: Development
+2025-08-10 01:14:28.596 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 01:14:29.493 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 01:14:29.535 +07:00 [INF] CORS policy execution successful.
+2025-08-10 01:14:29.578 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 01:14:29.622 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 01:14:30.806 +07:00 [ERR] [BuilderController]: System.InvalidOperationException: Template parsing error: <input>(104,1) : error : Error while parsing for statement: The <end> statement was not found in: for <variable> in <expression> ... end
+   at DefaultDotnetBackend.Services.BuilderService.GenerateEntity(String schema, String tableName, String namespaceName) in C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend\Modules\Builder\Service\BuilderService.cs:line 59
+   at DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate(BuilderRequest item) in C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend\Modules\Builder\Controller\BuilderController.cs:line 86
+2025-08-10 01:14:30.821 +07:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType0`3[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-08-10 01:14:30.886 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 1250.6148ms
+2025-08-10 01:14:30.897 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 01:14:30.903 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 400 null application/json; charset=utf-8 1413.2759ms
+2025-08-10 01:15:31.890 +07:00 [INF] Application is shutting down...
+2025-08-10 01:15:39.410 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 01:15:39.470 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 01:15:39.477 +07:00 [INF] Hosting environment: Development
+2025-08-10 01:15:39.482 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 01:15:43.662 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 01:15:43.710 +07:00 [INF] CORS policy execution successful.
+2025-08-10 01:15:43.738 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 01:15:43.772 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 01:15:45.412 +07:00 [ERR] [BuilderController]: System.InvalidOperationException: Template parsing error: <input>(104,1) : error : Error while parsing for statement: The <end> statement was not found in: for <variable> in <expression> ... end
+   at DefaultDotnetBackend.Services.BuilderService.GenerateEntity(String schema, String tableName, String namespaceName) in C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend\Modules\Builder\Service\BuilderService.cs:line 59
+   at DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate(BuilderRequest item) in C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend\Modules\Builder\Controller\BuilderController.cs:line 86
+2025-08-10 01:15:45.461 +07:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType0`3[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-08-10 01:15:45.623 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 1832.0996ms
+2025-08-10 01:15:45.654 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 01:15:45.681 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 400 null application/json; charset=utf-8 2020.9751ms
+2025-08-10 01:16:06.422 +07:00 [INF] Application is shutting down...
+2025-08-10 01:16:12.989 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 01:16:13.042 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 01:16:13.046 +07:00 [INF] Hosting environment: Development
+2025-08-10 01:16:13.048 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 01:16:14.195 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 01:16:14.236 +07:00 [INF] CORS policy execution successful.
+2025-08-10 01:16:14.264 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 01:16:14.301 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 01:16:16.401 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 01:16:16.418 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2104.8989ms
+2025-08-10 01:16:16.429 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 01:16:16.437 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 4354 text/plain 2244.3818ms
+2025-08-10 01:18:28.662 +07:00 [INF] Application is shutting down...
+2025-08-10 01:18:35.810 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 01:18:35.862 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 01:18:35.867 +07:00 [INF] Hosting environment: Development
+2025-08-10 01:18:35.869 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 01:22:57.018 +07:00 [INF] Application is shutting down...
+2025-08-10 01:23:02.766 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 01:23:02.824 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 01:23:02.829 +07:00 [INF] Hosting environment: Development
+2025-08-10 01:23:02.832 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 01:23:04.358 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 01:23:04.392 +07:00 [INF] CORS policy execution successful.
+2025-08-10 01:23:04.426 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 01:23:04.462 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 01:23:06.424 +07:00 [ERR] [BuilderController]: <input>(63,20) : error : Invalid target function `varchar` (string)
+2025-08-10 01:23:06.437 +07:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType0`3[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-08-10 01:23:06.491 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2015.7517ms
+2025-08-10 01:23:06.503 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 01:23:06.515 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 400 null application/json; charset=utf-8 2159.2218ms
+2025-08-10 01:24:03.551 +07:00 [INF] Application is shutting down...
+2025-08-10 01:24:11.070 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 01:24:11.124 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 01:24:11.129 +07:00 [INF] Hosting environment: Development
+2025-08-10 01:24:11.135 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 01:24:12.918 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 01:24:12.956 +07:00 [INF] CORS policy execution successful.
+2025-08-10 01:24:12.990 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 01:24:13.028 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 01:24:16.086 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 01:24:16.109 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 3067.2249ms
+2025-08-10 01:24:16.121 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 01:24:16.130 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3974 text/plain 3214.0088ms
+2025-08-10 01:26:48.867 +07:00 [INF] Application is shutting down...
+2025-08-10 01:26:54.813 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 01:26:54.873 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 01:26:54.878 +07:00 [INF] Hosting environment: Development
+2025-08-10 01:26:54.880 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 01:26:59.530 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 01:26:59.572 +07:00 [INF] CORS policy execution successful.
+2025-08-10 01:26:59.602 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 01:26:59.652 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 01:27:02.624 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 01:27:02.643 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2981.7304ms
+2025-08-10 01:27:02.654 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 01:27:02.662 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 4124 text/plain 3134.2717ms
+2025-08-10 01:27:52.228 +07:00 [INF] Application is shutting down...
+2025-08-10 01:27:58.822 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 01:27:58.874 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 01:27:58.878 +07:00 [INF] Hosting environment: Development
+2025-08-10 01:27:58.880 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 01:28:15.375 +07:00 [INF] Application is shutting down...
+2025-08-10 01:28:22.129 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 01:28:22.184 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 01:28:22.189 +07:00 [INF] Hosting environment: Development
+2025-08-10 01:28:22.191 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 01:48:56.844 +07:00 [INF] Application is shutting down...
+2025-08-10 01:49:03.869 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 01:49:03.925 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 01:49:03.929 +07:00 [INF] Hosting environment: Development
+2025-08-10 01:49:03.932 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 01:49:06.278 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 01:49:06.313 +07:00 [INF] CORS policy execution successful.
+2025-08-10 01:49:06.341 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 01:49:06.375 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 01:49:08.475 +07:00 [ERR] [BuilderController]: <input>(8,20) : error : The function `string.repeat` was not found
+2025-08-10 01:49:08.489 +07:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType0`3[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-08-10 01:49:08.568 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2173.0546ms
+2025-08-10 01:49:08.582 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 01:49:08.597 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 400 null application/json; charset=utf-8 2320.5579ms
+2025-08-10 01:49:23.732 +07:00 [INF] Application is shutting down...
+2025-08-10 01:49:29.787 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 01:49:29.837 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 01:49:29.842 +07:00 [INF] Hosting environment: Development
+2025-08-10 01:49:29.844 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:10:43.840 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:10:43.882 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:10:43.915 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:10:43.955 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:10:46.005 +07:00 [ERR] [BuilderController]: <input>(8,19) : error : The function `string.repeat` was not found
+2025-08-10 02:10:46.017 +07:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType0`3[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-08-10 02:10:46.070 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2102.9802ms
+2025-08-10 02:10:46.081 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:10:46.091 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 400 null application/json; charset=utf-8 2254.5267ms
+2025-08-10 02:11:29.906 +07:00 [INF] Application is shutting down...
+2025-08-10 02:11:37.334 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:11:37.386 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:11:37.390 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:11:37.393 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:11:49.533 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:11:49.571 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:11:49.600 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:11:49.640 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:11:51.927 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 02:11:51.947 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2293.0032ms
+2025-08-10 02:11:51.957 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:11:51.969 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3107 text/plain 2438.1193ms
+2025-08-10 02:13:20.963 +07:00 [INF] Application is shutting down...
+2025-08-10 02:13:27.816 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:13:27.868 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:13:27.872 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:13:27.874 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:13:29.344 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:13:29.378 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:13:29.406 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:13:29.438 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:13:31.963 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 02:13:32.017 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2557.0353ms
+2025-08-10 02:13:32.046 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:13:32.089 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3031 text/plain 2746.3345ms
+2025-08-10 02:14:07.728 +07:00 [INF] Application is shutting down...
+2025-08-10 02:14:15.088 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:14:15.143 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:14:15.148 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:14:15.150 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:14:17.106 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:14:17.142 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:14:17.171 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:14:17.205 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:14:19.509 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 02:14:19.533 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2317.3329ms
+2025-08-10 02:14:19.546 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:14:19.557 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3031 text/plain 2453.6053ms
+2025-08-10 02:15:29.745 +07:00 [INF] Application is shutting down...
+2025-08-10 02:15:35.117 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:15:35.173 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:15:35.177 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:15:35.180 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:15:36.965 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:15:37.002 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:15:37.031 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:15:37.065 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:15:39.332 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 02:15:39.351 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2274.1977ms
+2025-08-10 02:15:39.362 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:15:39.373 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3021 text/plain 2412.0031ms
+2025-08-10 02:16:08.045 +07:00 [INF] Application is shutting down...
+2025-08-10 02:16:13.641 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:16:13.704 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:16:13.709 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:16:13.712 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:16:16.044 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:16:16.089 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:16:16.121 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:16:16.177 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:16:18.234 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 02:16:18.253 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2053.2258ms
+2025-08-10 02:16:18.265 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:16:18.274 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3057 text/plain 2234.3569ms
+2025-08-10 02:16:45.122 +07:00 [INF] Application is shutting down...
+2025-08-10 02:16:50.967 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:16:51.032 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:16:51.038 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:16:51.040 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:16:53.501 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:16:53.539 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:16:53.570 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:16:53.604 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:16:56.487 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 02:16:56.506 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2887.4905ms
+2025-08-10 02:16:56.518 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:16:56.529 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3021 text/plain 3031.2061ms
+2025-08-10 02:17:57.967 +07:00 [INF] Application is shutting down...
+2025-08-10 02:18:05.485 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:18:05.536 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:18:05.541 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:18:05.544 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:18:11.445 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:18:11.535 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:18:11.600 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:18:11.682 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:18:14.899 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 02:18:14.918 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 3209.6388ms
+2025-08-10 02:18:14.929 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:18:14.937 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3023 text/plain 3497.6976ms
+2025-08-10 02:19:25.731 +07:00 [INF] Application is shutting down...
+2025-08-10 02:19:32.732 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:19:32.785 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:19:32.789 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:19:32.791 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:19:55.410 +07:00 [INF] Application is shutting down...
+2025-08-10 02:20:01.680 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:20:01.758 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:20:01.760 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:20:01.762 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:20:03.233 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:20:03.271 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:20:03.309 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:20:03.344 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:20:05.361 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 02:20:05.385 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2027.6345ms
+2025-08-10 02:20:05.395 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:20:05.409 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3023 text/plain 2179.6686ms
+2025-08-10 02:29:12.043 +07:00 [INF] Application is shutting down...
+2025-08-10 02:29:17.910 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:29:17.973 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:29:17.981 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:29:17.985 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:29:31.993 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:29:32.164 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:29:32.313 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:29:32.360 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:29:34.576 +07:00 [ERR] [BuilderController]: System.InvalidOperationException: Template parsing error: <input>(94,5) : error : Error while parsing unary expression: Expecting <expression> instead of `\r\n    ` in: <operator> <expression>
+   at DefaultDotnetBackend.Services.BuilderService.GenerateEntity(String schema, String tableName, String namespaceName) in C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend\Modules\Builder\Service\BuilderService.cs:line 59
+   at DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate(BuilderRequest item) in C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend\Modules\Builder\Controller\BuilderController.cs:line 86
+2025-08-10 02:29:34.610 +07:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType0`3[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-08-10 02:29:34.668 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2295.518ms
+2025-08-10 02:29:34.681 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:29:34.693 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 400 null application/json; charset=utf-8 2707.1809ms
+2025-08-10 02:29:55.476 +07:00 [INF] Application is shutting down...
+2025-08-10 02:30:02.133 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:30:02.188 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:30:02.191 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:30:02.193 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:30:03.797 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:30:03.831 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:30:03.858 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:30:03.890 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:30:06.194 +07:00 [ERR] [BuilderController]: <input>(101,28) : error : The function `string.end_with` was not found
+2025-08-10 02:30:06.210 +07:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType0`3[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-08-10 02:30:06.265 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2361.0681ms
+2025-08-10 02:30:06.278 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:30:06.292 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 400 null application/json; charset=utf-8 2497.3455ms
+2025-08-10 02:34:07.748 +07:00 [INF] Application is shutting down...
+2025-08-10 02:34:16.055 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:34:16.130 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:34:16.135 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:34:16.139 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:34:17.468 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:34:17.500 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:34:17.532 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:34:17.569 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:34:19.440 +07:00 [ERR] [BuilderController]: <input>(101,13) : error : The function `string.end_with` was not found
+2025-08-10 02:34:19.453 +07:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType0`3[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-08-10 02:34:19.504 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 1922.9396ms
+2025-08-10 02:34:19.515 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:34:19.521 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 400 null application/json; charset=utf-8 2055.7599ms
+2025-08-10 02:35:22.277 +07:00 [INF] Application is shutting down...
+2025-08-10 02:40:41.832 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:40:41.898 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:40:41.901 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:40:41.904 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:40:45.686 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:40:45.783 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:40:45.857 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:40:45.979 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:40:48.458 +07:00 [ERR] [BuilderController]: <input>(101,13) : error : The function `string.end_with` was not found
+2025-08-10 02:40:48.473 +07:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType0`3[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-08-10 02:40:48.533 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2518.8037ms
+2025-08-10 02:40:48.547 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:40:48.555 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 400 null application/json; charset=utf-8 2874.1568ms
+2025-08-10 02:42:23.071 +07:00 [INF] Application is shutting down...
+2025-08-10 02:42:30.604 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:42:30.674 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:42:30.679 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:42:30.684 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:42:32.105 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:42:32.142 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:42:32.178 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:42:32.240 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:42:34.621 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 02:42:34.663 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2404.3561ms
+2025-08-10 02:42:34.676 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:42:34.688 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3591 text/plain 2586.0209ms
+2025-08-10 02:44:38.074 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5004/Builder/Table/Detail?schema=master&tableName=users - null null
+2025-08-10 02:44:38.099 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.GetTableByName (DefaultDotnetBackend)'
+2025-08-10 02:44:38.111 +07:00 [INF] Route matched with {action = "GetTableByName", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetTableByName(System.String, System.String) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:44:38.763 +07:00 [INF] Executing OkObjectResult, writing value of type 'DefaultDotnetBackend.DTOs.ApiResponse`1[[DefaultDotnetBackend.DTOs.TableDetailResponse, DefaultDotnetBackend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-10 02:44:38.840 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.GetTableByName (DefaultDotnetBackend) in 719.9659ms
+2025-08-10 02:44:38.848 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.GetTableByName (DefaultDotnetBackend)'
+2025-08-10 02:44:38.854 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5004/Builder/Table/Detail?schema=master&tableName=users - 200 null application/json; charset=utf-8 780.4055ms
+2025-08-10 02:48:09.364 +07:00 [INF] Application is shutting down...
+2025-08-10 02:48:24.474 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:48:24.528 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:48:24.536 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:48:24.540 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:48:29.873 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:48:29.922 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:48:29.974 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:48:30.043 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:48:31.990 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 02:48:32.010 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 1950.8279ms
+2025-08-10 02:48:32.022 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:48:32.031 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3409 text/plain 2160.1308ms
+2025-08-10 02:50:17.910 +07:00 [INF] Application is shutting down...
+2025-08-10 02:50:24.713 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:50:24.774 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:50:24.780 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:50:24.785 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:50:41.223 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:50:41.270 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:50:41.313 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:50:41.371 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:50:44.410 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 02:50:44.428 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 3043.5308ms
+2025-08-10 02:50:44.439 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:50:44.447 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3421 text/plain 3226.6032ms
+2025-08-10 02:51:27.657 +07:00 [INF] Application is shutting down...
+2025-08-10 02:51:36.369 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:51:36.444 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:51:36.449 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:51:36.451 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:51:36.511 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5004/Builder/Table/Detail?schema=master&tableName=users - null null
+2025-08-10 02:51:36.588 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.GetTableByName (DefaultDotnetBackend)'
+2025-08-10 02:51:36.637 +07:00 [INF] Route matched with {action = "GetTableByName", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetTableByName(System.String, System.String) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:51:37.708 +07:00 [INF] Executing OkObjectResult, writing value of type 'DefaultDotnetBackend.DTOs.ApiResponse`1[[DefaultDotnetBackend.DTOs.TableDetailResponse, DefaultDotnetBackend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-08-10 02:51:37.982 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.GetTableByName (DefaultDotnetBackend) in 1324.4077ms
+2025-08-10 02:51:38.002 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.GetTableByName (DefaultDotnetBackend)'
+2025-08-10 02:51:38.023 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5004/Builder/Table/Detail?schema=master&tableName=users - 200 null application/json; charset=utf-8 1518.9512ms
+2025-08-10 02:51:46.312 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:51:46.370 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:51:46.385 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:51:46.412 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:51:48.756 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 02:51:48.788 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2355.4592ms
+2025-08-10 02:51:48.803 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:51:48.817 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3421 text/plain 2506.0893ms
+2025-08-10 02:53:50.802 +07:00 [INF] Application is shutting down...
+2025-08-10 02:54:26.727 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 02:54:26.796 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 02:54:26.806 +07:00 [INF] Hosting environment: Development
+2025-08-10 02:54:26.810 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 02:54:28.494 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 02:54:28.536 +07:00 [INF] CORS policy execution successful.
+2025-08-10 02:54:28.571 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:54:28.608 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 02:54:31.004 +07:00 [ERR] [BuilderController]: <input>(99,31) : error : Argument index must be < 3 (Parameter 'index')
+2025-08-10 02:54:31.023 +07:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType0`3[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-08-10 02:54:31.072 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2451.74ms
+2025-08-10 02:54:31.082 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 02:54:31.091 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 400 null application/json; charset=utf-8 2600.4523ms
+2025-08-10 03:00:08.062 +07:00 [INF] Application is shutting down...
+2025-08-10 03:00:16.474 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 03:00:16.589 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 03:00:16.598 +07:00 [INF] Hosting environment: Development
+2025-08-10 03:00:16.605 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 03:00:20.937 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 03:00:20.977 +07:00 [INF] CORS policy execution successful.
+2025-08-10 03:00:21.009 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:00:21.058 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 03:00:23.609 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 03:00:23.640 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2565.5865ms
+2025-08-10 03:00:23.652 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:00:23.664 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3422 text/plain 2730.2699ms
+2025-08-10 03:01:12.862 +07:00 [INF] Application is shutting down...
+2025-08-10 03:01:20.637 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 03:01:20.695 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 03:01:20.699 +07:00 [INF] Hosting environment: Development
+2025-08-10 03:01:20.701 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 03:02:21.866 +07:00 [INF] Application is shutting down...
+2025-08-10 03:02:28.383 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 03:02:28.464 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 03:02:28.470 +07:00 [INF] Hosting environment: Development
+2025-08-10 03:02:28.474 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 03:02:30.290 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 03:02:30.325 +07:00 [INF] CORS policy execution successful.
+2025-08-10 03:02:30.353 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:02:30.394 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 03:02:32.116 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 03:02:32.135 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 1728.6658ms
+2025-08-10 03:02:32.144 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:02:32.153 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3422 text/plain 1865.2702ms
+2025-08-10 03:03:25.434 +07:00 [INF] Application is shutting down...
+2025-08-10 03:03:32.141 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 03:03:32.206 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 03:03:32.213 +07:00 [INF] Hosting environment: Development
+2025-08-10 03:03:32.217 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 03:03:39.727 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 03:03:39.768 +07:00 [INF] CORS policy execution successful.
+2025-08-10 03:03:39.799 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:03:39.833 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 03:03:41.673 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 03:03:41.695 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 1849.4443ms
+2025-08-10 03:03:41.704 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:03:41.711 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3436 text/plain 1987.334ms
+2025-08-10 03:06:02.268 +07:00 [INF] Application is shutting down...
+2025-08-10 03:06:35.765 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 03:06:35.817 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 03:06:35.822 +07:00 [INF] Hosting environment: Development
+2025-08-10 03:06:35.824 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 03:07:27.997 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 03:07:28.034 +07:00 [INF] CORS policy execution successful.
+2025-08-10 03:07:28.073 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:07:28.122 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 03:07:30.233 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 03:07:30.260 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2121.4929ms
+2025-08-10 03:07:30.274 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:07:30.284 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3400 text/plain 2289.7499ms
+2025-08-10 03:09:54.089 +07:00 [INF] Application is shutting down...
+2025-08-10 03:10:02.652 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 03:10:02.737 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 03:10:02.741 +07:00 [INF] Hosting environment: Development
+2025-08-10 03:10:02.746 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 03:10:14.214 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 03:10:14.250 +07:00 [INF] CORS policy execution successful.
+2025-08-10 03:10:14.280 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:10:14.325 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 03:10:16.383 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 03:10:16.401 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2058.3693ms
+2025-08-10 03:10:16.412 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:10:16.424 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3440 text/plain 2213.436ms
+2025-08-10 03:11:59.674 +07:00 [INF] Application is shutting down...
+2025-08-10 03:12:07.728 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 03:12:07.813 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 03:12:07.816 +07:00 [INF] Hosting environment: Development
+2025-08-10 03:12:07.819 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 03:12:11.959 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 03:12:12.005 +07:00 [INF] CORS policy execution successful.
+2025-08-10 03:12:12.038 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:12:12.075 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 03:12:14.542 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 03:12:14.596 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2497.7441ms
+2025-08-10 03:12:14.629 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:12:14.655 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3416 text/plain 2698.4478ms
+2025-08-10 03:13:10.443 +07:00 [INF] Application is shutting down...
+2025-08-10 03:13:17.980 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 03:13:18.063 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 03:13:18.074 +07:00 [INF] Hosting environment: Development
+2025-08-10 03:13:18.085 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 03:13:20.070 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 03:13:20.106 +07:00 [INF] CORS policy execution successful.
+2025-08-10 03:13:20.135 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:13:20.173 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 03:13:22.793 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 03:13:22.822 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2636.2282ms
+2025-08-10 03:13:22.838 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:13:22.852 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3416 text/plain 2782.9263ms
+2025-08-10 03:14:35.946 +07:00 [INF] Application is shutting down...
+2025-08-10 03:14:49.703 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 03:14:49.776 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 03:14:49.780 +07:00 [INF] Hosting environment: Development
+2025-08-10 03:14:49.782 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 03:14:53.989 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 03:14:54.026 +07:00 [INF] CORS policy execution successful.
+2025-08-10 03:14:54.056 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:14:54.092 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 03:14:56.729 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 03:14:56.758 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2647.6558ms
+2025-08-10 03:14:56.771 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:14:56.782 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3430 text/plain 2796.2123ms
+2025-08-10 03:17:14.613 +07:00 [INF] Application is shutting down...
+2025-08-10 03:17:21.346 +07:00 [INF] Now listening on: http://localhost:5004
+2025-08-10 03:17:21.407 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-10 03:17:21.411 +07:00 [INF] Hosting environment: Development
+2025-08-10 03:17:21.414 +07:00 [INF] Content root path: C:\Users\user\OneDrive\Documents\HanifRamadhan\DefaultDotnetBackend
+2025-08-10 03:17:23.984 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 03:17:24.089 +07:00 [INF] CORS policy execution successful.
+2025-08-10 03:17:24.166 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:17:24.266 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 03:17:26.693 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 03:17:26.717 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 2421.4172ms
+2025-08-10 03:17:26.727 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:17:26.736 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3464 text/plain 2757.6902ms
+2025-08-10 03:19:21.102 +07:00 [INF] Request starting HTTP/1.1 POST http://localhost:5004/Builder/Generate - application/json 87
+2025-08-10 03:19:21.120 +07:00 [INF] CORS policy execution successful.
+2025-08-10 03:19:21.126 +07:00 [INF] Executing endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:19:21.131 +07:00 [INF] Route matched with {action = "BuilderGenerate", controller = "Builder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] BuilderGenerate(DefaultDotnetBackend.DTOs.BuilderRequest) on controller DefaultDotnetBackend.Controllers.BuilderController (DefaultDotnetBackend).
+2025-08-10 03:19:22.369 +07:00 [INF] Executing FileContentResult, sending file with download name 'users.cs' ...
+2025-08-10 03:19:22.377 +07:00 [INF] Executed action DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend) in 1240.9698ms
+2025-08-10 03:19:22.382 +07:00 [INF] Executed endpoint 'DefaultDotnetBackend.Controllers.BuilderController.BuilderGenerate (DefaultDotnetBackend)'
+2025-08-10 03:19:22.385 +07:00 [INF] Request finished HTTP/1.1 POST http://localhost:5004/Builder/Generate - 200 3450 text/plain 1284.5857ms

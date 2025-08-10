@@ -1,0 +1,117 @@
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json.Linq;
+using System.Diagnostics.CodeAnalysis;
+{{-
+    classname = tablename | string.split "_" | array.join " " | string.capitalizewords | string.remove " " 
+    space = '    '
+}}
+
+namespace {{ namespace }}.Entities 
+{
+{{ space }}[Table("{{ tablename }}", Schema = "{{ schema }}")]
+{{ space }}public class {{ classname }} 
+{{ space }}{
+{{- for column in columns ~}}
+{{- columnname = column.columnname | string.split "_" | array.join " " | string.capitalizewords | string.remove " " -}}
+{{ if column.isprimarykey -}}
+{{}}
+{{ space }}{{ space }}[Key]
+{{}}
+{{- end -}}
+{{ if column.isnullable == false && column.isprimarykey == false -}}
+{{}}
+{{ space }}{{ space }}[Required]
+{{}}
+{{- else if column.isnullable -}}
+{{}}
+{{ space }}{{ space }}[AllowNull]
+{{}}
+{{- end -}}
+{{ if column.columnname | string.contains "email" -}}
+{{ space }}{{ space }}[EmailAddress]
+{{}}
+{{- end -}}
+{{ if column.columnname | string.contains "phone" -}}
+{{ space }}{{ space }}[Phone]
+{{}}
+{{- end -}}
+{{}}
+{{-
+    requiredproperty = " required"
+    symbolrequired = ''
+    checkrequired = column.datatype | string.contains "varchar"
+    if column.isnullable == false && checkrequired
+        requiredproperty = " required"
+        symbolrequired = ""
+    else if column.isnullable == false && checkrequired == false
+        requiredproperty = ""
+        symbolrequired = ""
+    else
+        requiredproperty = ""
+        symbolrequired = "?"
+    end
+
+    typename = ""
+    validationint = column.datatype | string.contains "int"
+    validationfloat = column.datatype | string.contains "float"
+    validationdecimal = column.datatype | string.contains "decimal"
+    validationjson = column.datatype | string.contains "json"
+    validationbyte = column.datatype | string.contains "byte"
+    if column.datatype == "varchar" || column.datatype == "text" || column.datatype == "inet" || column.datatype == "cidr" || column.datatype == "macaddr"
+        typename = "string"
+    else if column.datatype == "char"
+        typename = "char"
+    else if column.datatype == "smallint"
+        typename = "short"
+    else if column.datatype == "integer" || validationint || column.datatype == "serial"
+        typename = "int"
+    else if column.datatype == "bigint" || column.datatype == "bigserial"
+        typename = "long"
+    else if column.datatype == "real" || validationfloat
+        typename = "float"
+    else if column.datatype == "double precision"
+        typename = "double"
+    else if column.datatype == "numeric" || column.datatype == "money" || validationdecimal
+        typename = "decimal"
+    else if column.datatype == "timestamp" || column.datatype == "date"
+        typename = "DateTime"
+    else if column.datatype == "timestamptz"
+        typename = "DateTimeOffset"
+    else if column.datatype == "time" || column.datatype == "interval"
+        typename = "TimeSpan"
+    else if validationjson
+        typename = "JObject"
+    else if validationbyte
+        typename = "byte[]"
+    else
+        typename = "string"
+    end
+-}}
+{{ space }}{{ space }}[Column("{{ column.columnname }}", TypeName = "{{ column.datatype }}")]
+{{ space }}{{ space }}public{{ requiredproperty }} {{ typename + symbolrequired }} {{ columnname }} { get; set; }
+{{ if column.isforeignkey && column.foreign != null }}
+{{-
+    foreignclass = column.foreign.foreigntable | string.split "_" | array.join " " | string.capitalizewords | string.remove " "
+    foreigntable = column.foreign.foreigntable
+    result = ""
+    if string.ends_with foreigntable "ies"
+        data = foreigntable | string.slice 0 foreigntable.size - 3
+        result = data + "y" | string.capitalizewords
+    else if string.ends_with foreigntable "s"
+        result = foreigntable | string.slice 0 foreigntable.size - 1
+        result = result | string.capitalizewords
+    else
+        result = foreigntable | string.capitalizewords
+    end
+}}
+{{ space }}{{ space }}[ForeignKey("{{ columnname }}")]
+{{ space }}{{ space }}public {{ foreignclass }}? {{ result }} { get; set; }
+{{ else }}
+{{- -}}
+{{- end -}}
+{{- end ~}}
+{{}}
+{{ space }}}
+}

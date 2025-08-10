@@ -2,7 +2,7 @@ using DefaultDotnetBackend.DTOs;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DefaultDotnetBackend.Controller {
+namespace DefaultDotnetBackend.Controllers {
     [ApiController]
     [Route("api/[controller]")]
     public class HomeController : BaseController {

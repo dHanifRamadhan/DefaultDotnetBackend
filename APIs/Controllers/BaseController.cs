@@ -5,7 +5,7 @@ using FluentValidation.Results;
 using DefaultDotnetBackend.DTOs;
 using DefaultDotnetBackend.Constants;
 
-namespace DefaultDotnetBackend.Controller { 
+namespace DefaultDotnetBackend.Controllers { 
     public class BaseController : ControllerBase {
         // Success Response
         protected IActionResult Ok (string? message = null) => base.Ok(new ApiResponse{
